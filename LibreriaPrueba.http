@@ -1,0 +1,6 @@
+@LibreriaPrueba_HostAddress = http://localhost:5128
+
+GET {{LibreriaPrueba_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
